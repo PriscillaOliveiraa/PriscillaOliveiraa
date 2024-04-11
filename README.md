@@ -14,15 +14,17 @@
   - ⚡ Sou gamer nas horas vagas, gosto de ler, seja literatura fantástica ou clássica. Também tenho interesse em outras áreas da tecnologia como cyberseguraça e Machine learning. \o/
 </details>
 
-###
+
 <!-- Links -->
+## Redes Socias
 <div align="left">
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oliveira.priscilamartin@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscillac_oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-oliveiradever/)
 </div>
+
+## Contato: :email: oliveira.priscilamartin@gmail.com
+
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscillaOliveiraa&show_icons=true&theme=chartreuse-dark)
